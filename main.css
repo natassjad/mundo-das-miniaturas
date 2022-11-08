@@ -1,0 +1,41 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.section-title {
+    font-family: 'Indie Flower', cursive;
+}
+
+header .section-title,
+header .section-title:hover {
+    color: #fff;
+    font-size: 32px;
+}
+
+.navbar {
+    background-color: #b6d4bb;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #fff;
+    color: #b6d4bb;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-cardapio .nav-link.active:hover {
+    color: #fff;
+}
+
+.navbar-toggler {
+    background-color: #b6d4bb;
+}
+
+#sobre, #contato {
+    background-color: #f1e7c5;
+}
+
+#catalogo {
+    background-color: #f0cdab;
+}
